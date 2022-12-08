@@ -1,0 +1,26 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+* {
+  font-family: "Cantarell", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+#input-code {
+  display: block;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ccc;
+}
+
+canvas {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
